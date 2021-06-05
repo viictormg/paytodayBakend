@@ -1,0 +1,20 @@
+{
+  "name": "paytoday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo": "^2.32.5",
+    "apollo-server": "^2.21.1",
+    "graphql": "^15.5.0",
+    "graphql-tools": "^7.0.4",
+    "mongoose": "^5.11.19",
+    "nodemon": "^2.0.7"
+  }
+}
